@@ -1,0 +1,39 @@
+body{
+    background-color: #000000;
+}
+table{
+   border-collapse: collapse;
+}
+tr{
+    background-color: #ffffff;
+    width: 30px;
+    height: 30px;
+}
+.red{
+    border: none;
+    background-color: #ff0000;
+    height: 30px;
+}
+.green{
+    border: none;
+    background-color: #008000;
+    height: 30px ;  
+    width: 30px;
+}
+.white{
+    background-color: #ffffff;
+    width: 30px;
+    height: 30px;
+}   
+.yellow{
+    border: none;
+    background-color: #ffff00;
+    width: 30px;
+    hyphens: 30px;  
+}
+.blue{
+    border: none;
+    background-color: #0000ff;
+    width: 30px;
+    height: 30px;
+}
